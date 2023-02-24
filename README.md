@@ -1,6 +1,5 @@
-# Weather bot + aiogram
-## Written with Classes
-### Telegram bot "https://t.me/cold_hot_weather_bot"
+# Weather with TelegramBotAPI
+
+### Telegram bot "https://t.me/MyITC_bot"
 ### from https://home.openweathermap.org/
-### pip install requests
-### pip install aiogram
+
